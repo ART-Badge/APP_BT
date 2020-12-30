@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <GlobalSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DownloadMode="1" DownloadCmd="udb connect com15 230400&#xA;udb install D:\Workspace\GitLab\art-badge\firmware\persimmon_ui_builder_project\ART_Badge_ble\dist\app.prc" ProjectName="ART_Badge_ble" DefaultWinWidth="240" DefaultWinHeight="240" GUIVersion="V4">
+  </GlobalSetting>
+  <Solution>
+    <ART_Badge_ble SubType="Project">
+      <UI文件 SubType="UIFile">
+        <pages SubType="Directory">
+          <page1 SubType="PageDirectory">
+            <page1.js SubType="PageJs" />
+            <page1.ui SubType="PageUi" />
+          </page1>
+        </pages>
+      </UI文件>
+      <modules SubType="Modules" />
+      <app.js SubType="AppJs" />
+      <app.json SubType="AppJson" />
+    </ART_Badge_ble>
+  </Solution>
+</Project>

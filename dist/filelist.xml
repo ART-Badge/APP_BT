@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <file offset="28" name="app.js" hash="170823714" size="286">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_ble/ART_Badge_ble/app.js</file>
+    <file offset="316" name="app.json" hash="2338074733" size="266">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_ble/ART_Badge_ble/app.json</file>
+    <file offset="584" name="modules/touch.js" hash="498371308" size="4343">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_ble/ART_Badge_ble/modules/touch.js</file>
+    <file offset="4928" name="pages/page1/page1.js" hash="2650839397" size="1573">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_ble/ART_Badge_ble/pages/page1/page1.js</file>
+    <file offset="6504" name="pages/page1/page1.xml" hash="3662816903" size="789">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_ble/ART_Badge_ble/pages/page1/page1.xml</file>
+    <file offset="7296" name="images/app.png" hash="1304487197" size="2024">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_ble/ART_Badge_ble/res/images/app.png</file>
+    <file offset="9320" name="images/scrollbar_handle_horizontal.9.png" hash="1583426245" size="314">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_ble/ART_Badge_ble/res/images/scrollbar_handle_horizontal.9.png</file>
+    <file offset="9636" name="images/scrollbar_handle_vertical.9.png" hash="3242514683" size="314">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_ble/ART_Badge_ble/res/images/scrollbar_handle_vertical.9.png</file>
+    <file offset="9952" name="values/strings.bin" hash="3192282338" size="51">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_ble/ART_Badge_ble/res/values/strings.bin</file>
+    <file offset="10004" name="default" hash="3700132857" size="358">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_ble/dist/default.bin</file>
+</resources>
