@@ -1,0 +1,13 @@
+{
+    "id"     : "com.example.ART_Badge_ble",
+    "name"   : "@app_name",
+    "author" : "rt-thread",
+    "vendor" : "rt-thread",
+    "version": "v1.0.0",
+    "tag":[ "app" ],
+    "apiLevel": {
+        "min": 3, 
+        "target": 3
+    },
+    "icon"  : "app.hdc"
+}
